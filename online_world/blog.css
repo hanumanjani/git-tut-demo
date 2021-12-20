@@ -1,0 +1,12 @@
+.heading1{
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+body {
+    background-image: url('Internet_Business_Technology_HD_Wallpaper_16_1366x768.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}

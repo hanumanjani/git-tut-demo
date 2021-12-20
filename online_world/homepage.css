@@ -1,0 +1,76 @@
+.onlineworld{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 2px;
+    margin: 0px;
+    font-style:inherit;
+}
+.li1{
+    background-color:skyblue;
+    padding: 2px;
+    border:  solid red 1px;
+    margin: 0px;
+    text-align: left;
+    width: 140px;
+
+}
+.manu1{
+    background-color:white;
+    border: solid  black 1px;
+    width:152px;
+    height: 238px;
+}
+body {
+    background-image: url('Internet_Business_Technology_HD_Wallpaper_16_1366x768.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.wwww{
+    padding: 4px;
+    text-align:right;
+}
+/* unvisited link */
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+  .user_account{
+    background-color: aqua;
+    padding:10px;
+    border-style: groove;
+    color: floralwhite;
+    text-align: center;
+    padding: 10px;
+    margin: 200px;
+    width: 350px;
+
+  }
+  .box11{
+    background-color: black;
+    padding: 4px;
+    margin: 3px;
+    border:solid white 1.5px;
+    width: 300px;
+  }
+  .button1{
+    background-color: green;
+    padding: 3px;
+    border: solid red 2px;
+  }
+   
